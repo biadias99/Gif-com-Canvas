@@ -10,8 +10,5 @@ function setup() {
 }
 
 function draw() {  
-  // updates animation frames by using an html
-  // img element, positioning it over top of
-  // the canvas.
   gif_createImg.position(100, 50);
 }
