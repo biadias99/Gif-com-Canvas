@@ -1,11 +1,3 @@
-/**
- * demonstrates how to load a GIF image using
- * createImg to create an <img> on the page
- * and to use that to update animation
- * (and illustrates how p5's loadImage loads only
- * one frame otherwise).
- */
-
 var gif_createImg;
 
 function preload() {
